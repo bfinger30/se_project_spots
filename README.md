@@ -1,12 +1,19 @@
 # Project 3: Spots
 
+Spots is an image sharing website.
+
 ## Project Description
+
+The Spots image-sharing website is the project for the third sprint in TripleTen's software engineering course. The website features responsive design with HTML and CSS, adapting to the user's screen size from 1440px on desktop to 320px on mobile with support for tablet screens in between.
+
+By using flex-box, media inquiries, and selectors for smooth hover transitions, the webpage layout responds to the user's screen-size and reacts to cursor placement over traditionally clickable elements.
 
 ## Tech Stack
 
 - HTML
 - CSS
 - Responsive Design
+- GitHub
 
 ## Deployment
 
@@ -14,22 +21,6 @@ The Spots webpage is deployed to GitHub Pages.
 
 - Deployment Link: https://bfinger30.github.io/se_project_spots/
 
-### Overview
+## Future Plans
 
-- Intro
-- Figma
-- Images
-
-**Intro**
-
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
-
-**Figma**
-
-- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
+More interactivity, functional buttons.
