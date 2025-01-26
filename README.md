@@ -1,5 +1,19 @@
 # Project 3: Spots
 
+## Project Description
+
+## Tech Stack
+
+- HTML
+- CSS
+- Responsive Design
+
+## Deployment
+
+The Spots webpage is deployed to GitHub Pages.
+
+- Deployment Link:
+
 ### Overview
 
 - Intro
