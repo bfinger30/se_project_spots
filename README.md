@@ -14,6 +14,8 @@ By using flex-box, media inquiries, and selectors for smooth hover transitions, 
 - CSS
 - Responsive Design
 - GitHub
+- Git
+- VSCode
 
 ## Deployment
 
