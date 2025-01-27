@@ -21,6 +21,10 @@ The Spots webpage is deployed to GitHub Pages.
 
 - Deployment Link: https://bfinger30.github.io/se_project_spots/
 
+## Project Video Walkthrough
+
+- Video Link: https://drive.google.com/file/d/1Cv4Zl1h0x0Gh4VD3_pyVgRPDX1NykThR/view?usp=sharing
+
 ## Future Plans
 
 More interactivity, functional buttons.
