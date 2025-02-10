@@ -1,17 +1,18 @@
 # Project 3: Spots
 
-Spots is an image sharing website.
+Spots is an image sharing website. 
 
 ## Project Description
 
 The Spots image-sharing website is the project for the third sprint in TripleTen's software engineering course. The website features responsive design with HTML and CSS, adapting to the user's screen size from 1440px on desktop to 320px on mobile with support for tablet screens in between.
 
-By using grid, flex-box, media inquiries, and modifiers for smooth hover transitions, the webpage layout responds to the user's screen-size and reacts to cursor placement over traditionally clickable elements.
+This project is a work in progress.
 
 ## Tech Stack
 
 - HTML
 - CSS
+- JavaScript
 - Responsive Design
 - GitHub
 - Git Bash
