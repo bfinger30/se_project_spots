@@ -77,7 +77,7 @@ function handleAddCardSubmit(evt) {
   };
   const cardElement = getCardElement(inputValues);
   cardsList.prepend(cardElement);
-  closeModal(editModal);
+  closeModal(cardModal);
 }
 
 function getCardElement(data) {
