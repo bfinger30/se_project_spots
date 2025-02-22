@@ -82,6 +82,7 @@ function handleAddCardSubmit(evt) {
   };
   const cardElement = getCardElement(inputValues);
   cardsList.prepend(cardElement);
+  cardForm.reset();
   closeModal(cardModal);
 }
 

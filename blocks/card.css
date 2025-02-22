@@ -1,5 +1,5 @@
 .card {
-  position: relative; /* Add this line */
+  position: relative;
   display: flex;
   flex-direction: column;
   list-style: none;
