@@ -1,8 +1,11 @@
 const showInputError = (formEl, inputEl, errorMessage) => {
-  const errorMessageID = inputEl.id + "-error";
-  const errorMessageEl = document.querySelector("#" + errorMessageID);
+  const errorMessageEl = formEl.querySelector(`#${inputEl.id}-error`);
   errorMessageEl.textContent = errorMessage;
-  console.log(errorMessageID);
+};
+
+const hideInputError = (formEl, inputEl) => {
+  const errorMessageEl = formEl.querySelector(`#${inputEl.id}-error`);
+  errorMessageEl.textContent = "";
 };
 
 const checkInputValidity = (formEl, inputEl) => {
