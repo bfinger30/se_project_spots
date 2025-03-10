@@ -118,14 +118,25 @@
   transition: opacity 0.3s linear 0.1s;
 }
 
+.modal__input::placeholder {
+  color: #212121;
+  opacity: 30%;
+}
+
 .modal__input:hover {
   opacity: 1;
   cursor: pointer;
 }
 
+.modal__input_type_error {
+  border: 1px solid rgba(255, 0, 0, 0.6);
+}
+
 .modal__error {
   display: block;
-  color: red;
+  color: rgba(255, 0, 0, 0.7);
+  size: 16px;
+  font-weight: 500;
 }
 
 .modal__submit-button {
