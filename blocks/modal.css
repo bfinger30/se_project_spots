@@ -154,7 +154,7 @@
   transition: opacity 0.3s linear 0.1s;
 }
 
-.modal__button_type_error {
+.modal__submit-button_disabled {
   background-color: rgba(33, 33, 33, 0.5);
 }
 
